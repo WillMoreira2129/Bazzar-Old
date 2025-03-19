@@ -1,5 +1,28 @@
-body{
+.pesquisa{
 
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 120px;
+
 }
 
+.button-pesquisa{
+
+    background-color: #DDCCBA
+     
+}
+
+.Borda{
+
+    height: 500px;
+    background-color: #DDCCBA;
+    color: #564031;
+    display: flex;
+}
+
+
+.barrinha{
+
+    background-color: #564031;
+
+}
