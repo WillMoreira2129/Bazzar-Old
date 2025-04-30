@@ -1,3 +1,10 @@
+/* Leilão */
+
+.center{
+
+    padding: 2%;
+
+}
 
 
 .pesquisa{
@@ -32,22 +39,53 @@
 
 .carousel{
 
-    width: 45%;
-    height: 45%;
+    width: 50%;
+    height: 50%;
+    
 }
 
 .informaçoes{
 
     border: 3px solid #D9D9D9;
     border-radius: 8px;
-    position: absolute; top: 0.1%; left: 65%;
+    position: absolute; top: 0.5%; left: 75%;
     background-color: #D9D9D9;
-    width: 450px;
-    height: 450px;
+    width: 420px;
+    height: 640px;
+    font-size: 150%;
     
 }
 
+.img1{
 
+    position: absolute; top: 90%; left: 5%;
+
+}
+
+.img2{
+
+    position: absolute; top: 90%; left: 25%;
+
+}
+
+.img3{
+
+    position: absolute; top: 90%; left: 45%;
+
+}
+
+.img4{
+
+    position: absolute; top: 60.6%; left: 89.5%;
+
+
+}
+
+.text{
+
+    font-size: 120%;
+
+}
 .border{
 
     border: 3px solid #564031;
@@ -56,9 +94,10 @@
 .btn{
 
     background-color: #1D2A21;
-    position: absolute; top: 48%; left: 75%;
-    width: 120px;
+    position: absolute; top: 70%; left: 82%;
+    width: 180px;
     height:60px ;
+    border-radius: 15px;
   
 }
 
@@ -70,14 +109,11 @@
 .w-100{
 
     max-width: 100%;
+    
 }
 
 
-
-
-
-
-
+/* Dar lançes */
 
 
 .caixa1{
@@ -89,9 +125,15 @@
     height: 200px;
     margin-left: auto; 
     margin-right: auto;
+    font-size: 120%;
 
   }
 
+  .num{
+
+    position: absolute; top: 74px; left: 40%;
+    
+  }
   .caixa2{
 
     position: absolute; top: 25%; left: 1.5%;
@@ -102,8 +144,22 @@
     height: 400px;
     margin-left: auto; 
     margin-right: auto;
+    font-size: 120%;
+    
   }
 
+
+  .lance{
+
+    position: absolute; top: 8%; left: 250%;
+
+  }
+
+  .btn2{
+
+    position: absolute; top: 140%; left: 1%; 
+
+  }
   .IMG1{
 
     width: 25%;
@@ -124,3 +180,7 @@
 }
 
  
+
+
+
+
