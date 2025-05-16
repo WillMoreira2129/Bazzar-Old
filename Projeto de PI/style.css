@@ -52,7 +52,7 @@
     background-color: #D9D9D9;
     width: 420px;
     height: 640px;
-    font-size: 150%;
+    font-size: 140%;
     
 }
 
@@ -76,7 +76,7 @@
 
 .img4{
 
-    position: absolute; top: 60.6%; left: 89.5%;
+    position: absolute; top: 59.8%; left: 89.5%;
 
 
 }
@@ -94,9 +94,9 @@
 .btn{
 
     background-color: #1D2A21;
-    position: absolute; top: 70%; left: 82%;
-    width: 180px;
-    height:60px ;
+    position: absolute; top: 70%; left: 80%;
+    width: 250px;
+    height:80px ;
     border-radius: 15px;
   
 }
@@ -131,7 +131,7 @@
 
   .num{
 
-    position: absolute; top: 74px; left: 40%;
+    position: absolute; top: 79px; left: 40%;
     
   }
   .caixa2{
@@ -151,25 +151,42 @@
 
   .lance{
 
-    position: absolute; top: 8%; left: 250%;
+    position: absolute; top: 25%; left: 260%;
 
   }
 
   .btn2{
 
-    position: absolute; top: 140%; left: 1%; 
+    position: absolute; top: 135%; left: 25%; 
+    width: 55%;
+    height: 70px;
 
   }
+
+  #myTextarea {
+  width: 400px; 
+  height: 70px; 
+  padding: 10px; 
+  border: 1px solid black; 
+  font-family: sans-serif; 
+
+}
   .IMG1{
 
     width: 25%;
     height: 75%;
+    position: absolute; top: 15%; left: 1%;
   }
 
   .text1{
 
+    position: absolute; top: 12%; left: 32%;
+  }
 
-    position: absolute; top: 10%; left: 35%;
+  .text2{
+
+    position: absolute; top: -100%; left: 10%;
+
   }
 
   .linha-vertical {
@@ -177,6 +194,16 @@
     border-right: 1px solid black;
     position: absolute; top: 28%; left: 50%;
     
+}
+
+/* Maior_Lançe */
+
+.text3
+{
+
+font-size: 200%;
+
+
 }
 
  
