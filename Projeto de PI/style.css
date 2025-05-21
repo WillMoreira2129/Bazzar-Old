@@ -1,3 +1,13 @@
+/* Termos*/
+
+.text{
+
+font-size: 150%;
+
+
+}
+
+
 /* Leilão */
 
 .center{
@@ -164,11 +174,16 @@
   }
 
   #myTextarea {
-  width: 400px; 
+  width: 380px; 
   height: 70px; 
   padding: 10px; 
   border: 1px solid black; 
-  font-family: sans-serif; 
+  font-family: sans-serif;
+  text-transform: uppercase;
+  outline-style: outset;
+  outline-color: grey;
+  text-align: center;
+   font-size: 30px;
 
 }
   .IMG1{
@@ -201,10 +216,26 @@
 .text3
 {
 
-font-size: 200%;
+font-size: 150%;
 
 
 }
+
+.text4 {
+
+ position: absolute; top: 35%; left: 2%;
+
+}
+
+/* Formas de pagamento*/
+
+.text5 {
+
+
+position: absolute; top: 35%; left: 2%;
+
+}
+
 
  
 
