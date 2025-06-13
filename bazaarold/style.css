@@ -1,0 +1,345 @@
+/* Termos*/
+
+.text{
+
+font-size: 150%;
+
+
+}
+
+
+/* Leilão */
+
+.center{
+
+    padding: 2%;
+
+}
+
+
+.pesquisa{
+
+    display: flex;
+    justify-content: center;
+    height: 120px;
+
+}
+
+.button-pesquisa{
+
+    background-color: #DDCCBA
+    
+     
+}
+
+.Borda{
+
+    height: 500px;
+    background-color: #DDCCBA;
+    color: #564031;
+    display: flex;
+}
+
+
+.barrinha{
+
+    background-color: #564031;
+}
+
+
+.carousel{
+
+    width: 50%;
+    height: 50%;
+    
+}
+
+.informaçoes{
+
+    border: 3px solid #D9D9D9;
+    border-radius: 8px;
+    position: absolute; top: 0.5%; left: 75%;
+    background-color: #D9D9D9;
+    width: 420px;
+    height: 640px;
+    font-size: 140%;
+    
+}
+
+.img1{
+
+    position: absolute; top: 90%; left: 5%;
+
+}
+
+.img2{
+
+    position: absolute; top: 90%; left: 25%;
+
+}
+
+.img3{
+
+    position: absolute; top: 90%; left: 45%;
+
+}
+
+.img4{
+
+    position: absolute; top: 59.8%; left: 89.5%;
+
+
+}
+
+.text{
+
+    font-size: 120%;
+
+}
+.border{
+
+    border: 3px solid #564031;
+}
+
+.btn{
+
+    background-color: #1D2A21;
+    position: absolute; top: 70%; left: 80%;
+    width: 250px;
+    height:80px ;
+    border-radius: 15px;
+  
+}
+
+.table{
+
+    text-align: center;
+}
+
+.w-100{
+
+    max-width: 100%;
+    
+}
+
+
+/* Dar lançes */
+
+
+.caixa1{
+
+    border: 3px solid #D9D9D9;
+    border-radius: 8px;
+    background-color: #D9D9D9;
+    width: 97%;
+    height: 200px;
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: 120%;
+
+  }
+
+  .num{
+
+    position: absolute; top: 79px; left: 40%;
+    
+  }
+  .caixa2{
+
+    position: absolute; top: 25%; left: 1.5%;
+    border: 3px solid #D9D9D9;
+    border-radius: 8px;
+    background-color: #D9D9D9;
+    width: 97%;
+    height: 400px;
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: 120%;
+    
+  }
+
+
+  .lance{
+
+    position: absolute; top: 25%; left: 260%;
+
+  }
+
+  .btn2{
+
+    position: absolute; top: 135%; left: 25%; 
+    width: 55%;
+    height: 70px;
+
+  }
+
+  #myTextarea {
+  width: 380px; 
+  height: 70px; 
+  padding: 10px; 
+  border: 1px solid black; 
+  font-family: sans-serif;
+  text-transform: uppercase;
+  outline-style: outset;
+  outline-color: grey;
+  text-align: center;
+   font-size: 30px;
+
+}
+  .IMG1{
+
+    width: 25%;
+    height: 75%;
+    position: absolute; top: 15%; left: 1%;
+  }
+
+  .text1{
+
+    position: absolute; top: 12%; left: 32%;
+  }
+
+  .text2{
+
+    position: absolute; top: -100%; left: 10%;
+
+  }
+
+  .linha-vertical {
+    height: 350px;
+    border-right: 1px solid black;
+    position: absolute; top: 28%; left: 50%;
+    
+}
+
+/* Maior_Lançe */
+
+.text3
+{
+
+font-size: 150%;
+
+
+}
+
+.text4 {
+
+ position: absolute; top: 2%; left: 2%;
+
+}
+
+/* Formas de pagamento*/
+
+.text5 {
+
+
+position: absolute; top: 35%; left: 2%;
+
+}
+
+.ico1{
+
+position: absolute; top: 35%; left: 8%;
+
+}
+
+.ico2{
+
+position: absolute; top: 35%; left: 16%;
+
+}
+
+.ico3{
+
+position: absolute; top: 35%; left: 23%;
+
+}
+
+.ico4{
+
+position: absolute; top: 35%; left: 35%;
+
+}
+
+.ico5{
+
+position: absolute; top: 35%; left: 39%;
+
+}
+
+.ico6{
+
+position: absolute; top: 35%; left: 42.5%;
+
+}
+
+.ico7{
+
+position: absolute; top: 36%; left: 47.5%;
+
+}
+
+/*Cabechalho e Rodape*/
+
+.collapse {
+    justify-content: center;
+    background-color: #564031;
+    color: #DDCCBA;
+}
+
+.carousel {
+    width: 50%;
+    height: 50%;
+}
+
+.navbar-brand {
+    background-color: #564031;
+    color: #DDCCBA;
+}
+
+.nav-link{
+    color: #DDCCBA;;
+}
+
+.imgs {
+    width: 50px;
+    height: 50px;
+}
+
+footer {
+	background-color: #DDCCBA;
+	color: #564031;
+	padding: 20px;
+	text-align: center;
+	margin-top: auto;
+}
+
+ul {
+	list-style: none;
+    text-align: left;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	margin: 0 10px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.precabecalho {
+    text-align: justify;
+    display: flex;
+}
+
+.nav-item {
+    padding-left:30%;
+}
+
+.infos {
+    color: #564031;
+    text-decoration: none;
+}
+
