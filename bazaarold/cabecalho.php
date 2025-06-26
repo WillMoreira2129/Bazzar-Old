@@ -1,12 +1,15 @@
+
+
+
 <!DOCTYPE html>
 <html lang="pt_BR">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
   <title>Cabeçalho</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -25,7 +28,7 @@
         <a href="https://www.youtube.com"><img src="./assets/cadastrese.png" alt="" style="width: auto" /></a>
       </li>
 
-      <li style="padding-top: 2.4%; padding-left: auto;">
+      <li style="padding-top: 2.2%; padding-left: auto;">
         <a href=""><img src="./assets/Captura de tela 2025-03-19 134529.png" alt="" style="width: 190px" /></a>
       </li>
     </ul>
