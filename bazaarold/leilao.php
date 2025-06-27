@@ -13,77 +13,87 @@
 
   <?php require_once "cabecalho.php";?>
 
-  <div id="carouselExampleIndicators" class="carousel slide center" data-ride="carousel">
-    <ol class="carousel-indicators">
+    <div id="carouselExampleIndicators" class="carousel slide center" data-ride="carousel">
+
+      <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
+
+      </ol>
     <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img class="d-block w-100" src="assets/Katana.jpg" alt="Primeiro Slide">
-      </div>
-      <div class="carousel-item">
-        <img class="d-block w-100" src="assets/Katana.jpg" alt="Segundo Slide">
-      </div>
-      <div class="carousel-item">
+
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="assets/Katana.jpg" alt="Primeiro Slide">
+        </div>
+
+        <div class="carousel-item">
+            <img class="d-block w-100" src="assets/Katana.jpg" alt="Segundo Slide">
+        </div>
+
+        <div class="carousel-item">
+
         <img class="d-block w-100" src="assets/Katana.jpg" alt="Terceiro Slide">
-      </div>
+
+        </div>
+        
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Anterior</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Próximo</span>
-    </a>
-  </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+        </a>
+
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Próximo</span>
+       </a>
+
+     </div>
 
 
 
-    <div class="informacoes">
-        <h2>&emsp;Ainda Aberto para lances*</h2><br>
+        <div class="informacoes">
+          <h2>&emsp;Ainda Aberto para lances*</h2><br>
 
-        <p>&emsp;Valor Inicial</p>
-        <p><b>&emsp;R$2000,00</b></p>
+         <p>&emsp;Valor Inicial</p>
+         <p><b>&emsp;R$2000,00</b></p>
     
-        <p>&emsp;Ultimo lance</p>
-        <p><b>&emsp;R$2500,00</b></p>
+          <p>&emsp;Ultimo lance</p>
+          <p><b>&emsp;R$2500,00</b></p>
     
-        <br><p><b>&emsp;Inicio:</b> 23/02/2025 às 13:00</p>
-        <p><b>&emsp;Final:</b> 24/03/2025 às 13:00</p><br><br>
+          <br><p><b>&emsp;Inicio:</b> 23/02/2025 às 13:00</p>
+          <p><b>&emsp;Final:</b> 24/03/2025 às 13:00</p><br><br>
     
-        <p>&emsp;Compartilhar o item</p>
+          <p>&emsp;Compartilhar o item</p>
 
-        <div class="img1"><img src="assets/Facebook.png" alt="Facebook"></div>
+          <div class="img1"><img src="assets/Facebook.png" alt="Facebook"></div>
 
-        <div class="img2"><img src="assets/Instagram.png" alt="Instagram"></div>
+          <div class="img2"><img src="assets/Instagram.png" alt="Instagram"></div>
 
-        <div class="img3"><img src="assets/Whatsapp.png" alt="Whatsapp"></div>
+          <div class="img3"><img src="assets/Whatsapp.png" alt="Whatsapp"></div>
     
-    </div>
+        </div>
 
-    <div class="img4"><img src="assets/Telegram.png" alt="Telagram">
-    </div>
+    <div class="img4"><img src="assets/Telegram.png" alt="Telagram"></div>
     
     <button type="button" class="btn btn-success "><h3>Dar Lançe</h3></button>
     
-   <div class="center text"><p></p>Espada Katana Samurai Forjada Aço Damasco Original Afiada</p><br><br>
+      <div class="center text"><p></p>Espada Katana Samurai Forjada Aço Damasco Original Afiada</p><br><br>
 
 
-    <br><h2>Sobre este item</h2><br>
+        <br><h2>Sobre este item</h2><br>
 
-    <p>Forjada com Aço Damasco, Afiada em 14 processos de afiação 
+        <p>Forjada com Aço Damasco, Afiada em 14 processos de afiação 
         manual, própria para treinos de cortes e impactos</p>
     
 
     
-    <h2><img src="assets/icon1.png" alt="Ultimo">Ultimos Lançes</h2><br></div>
+          <h2><img src="assets/icon1.png" alt="Ultimo">Ultimos Lançes</h2><br></div>
 
 
-    <table class="table table-striped">
-      <thead>
+          <table class="table table-striped">
+
+            <thead>
         
         <tr>
 
@@ -148,9 +158,7 @@
 
 
 
-<?php
-  require_once "rodape.php";
-?>
+  <?php require_once "rodape.php";?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

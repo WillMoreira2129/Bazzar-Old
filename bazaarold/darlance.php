@@ -26,36 +26,36 @@
 
     </div>
 
-    <div class="caixa2">
+         <div class="caixa2">
 
-        <h2> &nbsp; Item para Lance</h2>
+         <h2> &nbsp; Item para Lance</h2>
 
-        <img src="assets/Katana.jpg" alt="katana" class="IMG1">
+            <img src="assets/Katana.jpg" alt="katana" class="IMG1">
 
         <div class="text1">
 
-        <p>Ainda aberto para lances</p>
+            <p>Ainda aberto para lances</p>
 
-        <p>Valor Inicial</p>
-        <p><b>R$2000,00</b></p>
+            <p>Valor Inicial</p>
+            <p><b>R$2000,00</b></p>
     
-        <p>Ultimo lance</p>
-        <p><b>R$2500,00</b></p>
+            <p>Ultimo lance</p>
+            <p><b>R$2500,00</b></p>
     
-        <p><b>Inicio:</b> 23/02/2025 às 13:00</p>
-        <p><b>Inicia:</b> 24/03/2025 às 13:00</p>
+            <p><b>Inicio:</b> 23/02/2025 às 13:00</p>
+            <p><b>Inicia:</b> 24/03/2025 às 13:00</p>
 
 
-        <div class="lance">
+            <div class="lance">
 
-            <div class = "text2"><h2>De Seu lance também</h2><br></div>
+                <div class = "text2"><h2>De Seu lance também</h2><br></div>
 
-            <textarea  id="myTextarea" name="mytext" rows="10" cols="50"  placeholder="Digite o valor"></textarea>
+                <textarea  id="myTextarea" name="mytext" rows="10" cols="50"  placeholder="Digite o valor"></textarea>
             
 
-            <button type="button" class="btn btn-success btn2"><h3>Dar Lance</h3></button>
+                <button type="button" class="btn btn-success btn2"><h3>Dar Lance</h3></button>
 
-          </form> 
+                </form> 
 
             </div>
     
